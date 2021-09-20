@@ -1,0 +1,3 @@
+model_checkpoint_path: "language-model-3"
+all_model_checkpoint_paths: "language-model-1"
+all_model_checkpoint_paths: "language-model-3"
